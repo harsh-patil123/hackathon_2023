@@ -1,0 +1,76 @@
+body {}
+
+.heading {
+    font-size: 100px;
+    height: 100px;
+    border-radius: 10px
+}
+
+.ayuimg {
+
+    display: block;
+
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    border-radius: 10px;
+    border-radius: 35px
+}
+
+.ayutxt {
+    color: rgba(2, 12, 5, 0.548);
+    background-color: rgb(26, 168, 62);
+    font-size: 20px;
+    text-align: center/left/right;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 8px;
+    text-align: center;
+}
+
+body {
+    text-align: center;
+}
+
+.button {
+    font-size: xx-large;
+    padding-left: 20px;
+    background-color: rgb(255, 251, 0);
+    height: 80px;
+    width: 250px;
+    border: 0px;
+    margin: 10px;
+    border-radius: 10px;
+
+}
+
+.button2 {
+    font-size: medium;
+    padding-left: 20px;
+    background-color: rgb(175, 136, 28);
+    height: 80px;
+    width: 250px;
+    border: 0px;
+    margin-left: 600px;
+    border-radius: 10px;
+
+}
+
+.button:hover {
+    background-color: rgb(138, 185, 140);
+    border: 2px solid green;
+}
+
+.button2:hover {
+    background-color: rgb(138, 185, 140);
+    border: 2px solid green;
+}
+
+.swasth {
+    flex: auto;
+    font-size: 80px;
+    color: green;
+    background-color: darkkhaki;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-radius: 8px;
+}
